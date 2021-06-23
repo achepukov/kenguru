@@ -1,0 +1,20 @@
+{
+  "name": "live-no-develop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "live": "node scripts/live.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "csv": "^1.1.1",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.3",
+    "fs": "0.0.1-security",
+    "fs-extra": "^3.0.1",
+    "react-dev-utils": "^3.0.0"
+  }
+}
